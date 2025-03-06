@@ -1,7 +1,7 @@
 package com.gym.management.gymmanager3.controller;
 
 
-import com.gym.management.gymmanager3.Model.Person;
+import com.gym.management.gymmanager3.model.Person;
 import com.gym.management.gymmanager3.service.PersonService;
 import java.util.List;
 import java.util.Optional;

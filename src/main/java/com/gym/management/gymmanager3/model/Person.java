@@ -1,4 +1,4 @@
-package com.gym.management.gymmanager3.Model;
+package com.gym.management.gymmanager3.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

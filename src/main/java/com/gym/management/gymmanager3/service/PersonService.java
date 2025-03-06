@@ -1,6 +1,6 @@
 package com.gym.management.gymmanager3.service;
 
-import com.gym.management.gymmanager3.Model.Person;
+import com.gym.management.gymmanager3.model.Person;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
